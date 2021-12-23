@@ -17,19 +17,19 @@ style "back"
 style "time"
 {
 	fg[NORMAL]="#ffffff"
-	font_name="Jetbrains Mono 14"
+	font_name="Sans 14"
 }
 
 style "prompt"
 {
 	fg[NORMAL]="#000000"
-	font_name="Jetbrains Mono 14"
+	font_name="Sans 14"
 }
 
 # Normally this won't paint an invisible event box, but we did some hacks in greeter.c.
 style "bottom"
 {
-	font_name="Jetbrains Mono 14"
+	font_name="Sans 14"
 	fg[NORMAL] = "#9E9D9B"
 	engine "pixmap"
 	{
