@@ -33,7 +33,7 @@
                 <child>
                   <object class="GtkImage" id="image1">
                     <property name="visible">True</property>
-                    <property name="pixbuf">atlantis.png</property>
+                    <property name="pixbuf">eos.png</property>
                     <property name="yalign">0.8</property>
                   </object>
                   <packing>

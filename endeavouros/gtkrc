@@ -7,7 +7,7 @@ style "back"
 			function = FLAT_BOX
 			shadow=NONE
 			state = NORMAL
-			file="endeavouros.png"
+			file="/usr/share/endeavouros/backgrounds/endeavouros-wallpaper.png"
 			stretch=TRUE
 			detail = "base"
 		}
