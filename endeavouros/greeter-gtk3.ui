@@ -162,7 +162,7 @@
                     <child>
                       <object class="GtkImage" id="image3">
                         <property name="visible">True</property>
-                        <property name="pixbuf">lang.png</property>
+                        <!--<property name="pixbuf">lang.png</property>-->
                       </object>
                       <packing>
                         <property name="expand">False</property>
